@@ -84,7 +84,7 @@ I built Qabas Chocolate as a focused front-end project to demonstrate both my **
 
 ## Author
 
-**Qabs Al Ani**  
+**Qabas Al Ani**  
 Web Developer / Front-End Engineer
 
 ## License

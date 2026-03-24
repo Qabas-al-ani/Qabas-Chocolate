@@ -42,7 +42,7 @@ export function BrandStory() {
 						<h3
 							className={`${serif.className} mt-12 text-[2.1rem] italic tracking-[0.01em] text-[#d7ac61] sm:text-[2.5rem]`}
 						>
-							Qabs Al Ani
+							Qabas Al Ani
 						</h3>
 					</div>
 				</div>

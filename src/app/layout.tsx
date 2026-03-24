@@ -5,7 +5,7 @@ import './globals.css'
 export const metadata: Metadata = {
 	metadataBase: new URL('https://qabas-chocolate.vercel.app'),
 	title: 'Qabas Chocolate',
-	description: 'Luxury chocolate brand landing page by Qabs Al Ani.',
+	description: 'Luxury chocolate brand landing page by Qabas Al Ani.',
 	alternates: {
 		canonical: '/',
 	},
