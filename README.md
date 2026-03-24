@@ -9,25 +9,11 @@ A modern chocolate brand landing page built with **Next.js 16**, **React 19**, *
 
 **Qabas Chocolate** was created as a portfolio project to demonstrate my **design eye**, **front-end engineering skills**, and ability to build polished, high-performance user experiences with modern web technologies. The project focuses on elegant visual presentation, clean layout structure, responsive design, and a smooth user experience from top to bottom.
 
-This project also achieved a **full Lighthouse score**, with **100% green results across Performance, Accessibility, Best Practices, and SEO** — including excellent **Web Vitals**.
+This project also achieved a **full Lighthouse score**, with **100% green results across Performance, Accessibility, Best Practices, and SEO**.
 
 ## Live Demo
 
 **Live Demo:** [qabas-chocolate.vercel.app](https://qabas-chocolate.vercel.app/)
-
-## Web Vitals
-
-<p align="center">
-  <img src="./assets/gtmetrix.png" alt="Qabas Chocolate GTmetrix results" style="width: 44%; max-width: 380px; height: 280px; object-fit: contain; vertical-align: top;" />
-  <img src="./assets/page-speed-insite.png" alt="Qabas Chocolate PageSpeed Insights results" style="width: 44%; max-width: 380px; height: 280px; object-fit: contain; vertical-align: top; margin-left: 12px;" />
-</p>
-
-<p align="center">
-  <img src="./assets/wave-test.png" alt="Qabas Chocolate wave results" style="width: 44%; max-width: 380px; height: 280px; object-fit: contain; vertical-align: top;" />
-  <img src="./assets/axe-core.png" alt="Qabas Chocolate axe core results" style="width: 44%; max-width: 380px; height: 280px; object-fit: contain; vertical-align: top; margin-left: 12px;" />
-</p>
-
-The site achieved **full scores across major testing categories**, including **Performance, Accessibility, Best Practices, SEO, and excellent Web Vitals**, showing that the project was built not only to look refined and high-end, but also to perform at an exceptional standard.
 
 ## About the Project
 
@@ -41,7 +27,7 @@ The site was built to highlight:
 - reusable component structure
 - performance-focused front-end development
 - attention to accessibility and SEO
-- high Lighthouse and Web Vitals scores
+- high Lighthouse scores
 
 ## What It Demonstrates
 
@@ -73,7 +59,7 @@ This project achieved:
 - **Best Practices:** 100
 - **SEO:** 100
 
-Everything is fully green in Lighthouse, with excellent Web Vitals performance.
+Everything is fully green in Lighthouse.
 
 ## Tech Stack
 
